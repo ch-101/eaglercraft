@@ -7,7 +7,7 @@
 
 │   │   └───(index.md)[eaglercraft.github.io/about/index.md]
 
-│   ├───(game)[eaglercraft.github.io/game]
+│   ├───(game)[eaglercraft.github.io/eaglercraft/game]
 
 │   │   └───(index.html)[eaglercraft.github.io/game/index.html]
 
